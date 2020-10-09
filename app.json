@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Mike's Stocks",
+    "slug": "mikes-stocks",
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.mjguggen.stonks"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
